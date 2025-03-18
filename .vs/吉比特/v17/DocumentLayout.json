@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|d:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\assets\\slaythespirem\\assets\\scripts\\utilities\\sqlitemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|solutionrelative:assets\\slaythespirem\\assets\\scripts\\utilities\\sqlitemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|d:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\assets\\slaythespirem\\assets\\scripts\\src\\ui\\startwindowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|solutionrelative:assets\\slaythespirem\\assets\\scripts\\src\\ui\\startwindowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|d:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\assets\\slaythespirem\\assets\\scripts\\utilities\\newtonsoftjsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|solutionrelative:assets\\slaythespirem\\assets\\scripts\\utilities\\newtonsoftjsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|d:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\assets\\slaythespirem\\assets\\scripts\\src\\battle\\battlesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AC6D67-B8FF-4B22-C06F-7E890B5A2061}|Assembly-CSharp.csproj|solutionrelative:assets\\slaythespirem\\assets\\scripts\\src\\battle\\battlesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartWindowController.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\UI\\StartWindowController.cs",
+              "RelativeDocumentMoniker": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\UI\\StartWindowController.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\UI\\StartWindowController.cs",
+              "RelativeToolTip": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\UI\\StartWindowController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:06:23.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqliteManager.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\SqliteManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\SqliteManager.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\SqliteManager.cs",
+              "RelativeToolTip": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\SqliteManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:54:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BattleSession.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\Battle\\BattleSession.cs",
+              "RelativeDocumentMoniker": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\Battle\\BattleSession.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\Battle\\BattleSession.cs",
+              "RelativeToolTip": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Src\\Battle\\BattleSession.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:53:55.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewtonsoftJsonSerializer.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\NewtonsoftJsonSerializer.cs",
+              "RelativeDocumentMoniker": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\NewtonsoftJsonSerializer.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\\u5409\u6BD4\u7279\\Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\NewtonsoftJsonSerializer.cs",
+              "RelativeToolTip": "Assets\\SlayTheSpireM\\Assets\\Scripts\\Utilities\\NewtonsoftJsonSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:15:42.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1291,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
